@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 ### DEMO
 便宜寄快递
-<img src="https://github.com/kuaidisdk/kuaidisdk/blob/main/Snipaste.png" alt="image" width="200" height="100">
+<img src="https://github.com/kuaidisdk/kuaidisdk/blob/main/Snipaste.png" alt="image" width="300" height="300">
 
