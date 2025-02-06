@@ -1,4 +1,4 @@
-## Hi there 👋
+## 快递单号查询比价小程序 👋
 
 <!--
 **kuaidisdk/kuaidisdk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### DEMO
+便宜寄快递
+![image text](https://github.com/kuaidisdk/kuaidisdk/blob/main/Snipaste.png)
+
